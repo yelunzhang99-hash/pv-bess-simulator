@@ -39,7 +39,7 @@ Requires: g++ with C++14 support.
 ## Sample Output
 
 The simulation runs a 24-hour energy balance for a 10 kWh LiFePO4 BESS charged by a 400W PV string. Results are saved to `simulation_output.csv` for plotting.
-
+![24h Simulation Output](simulation_output.svg)
 ## Next Steps
 
 - [ ] PVGIS real irradiance data integration (Tag 13)
